@@ -4,7 +4,7 @@ const langDetector = () => {
 
 		if (clientLang.includes("es")) {
 			// alert("Sito en español");
-			document.location.href = "http://127.0.0.1:5500/es/";
+			document.location.href = "https://vjespinoza.github.io/lang-test/es";
 		}
 	});
 };
