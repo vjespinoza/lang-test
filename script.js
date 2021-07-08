@@ -1,3 +1,6 @@
-import getClientLocation from "./test1.js";
+// import getClientLocation from "./test1.js";
+import langDetector from "./test2.js";
 
-getClientLocation();
+langDetector();
+
+// getClientLocation();
