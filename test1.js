@@ -1,5 +1,9 @@
 import countries from "./countryList.js";
 
+{
+	/* <script src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script> */
+}
+
 console.log(countries);
 
 const cleanText = (str) => {
